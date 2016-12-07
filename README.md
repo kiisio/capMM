@@ -1,4 +1,4 @@
-# capMM
+# Site dynamque pour le CAP Maintenance de Materiels
 Site dynamique pour travailler, recuperer les plans-éclaté de machine de
 motoculture (pdf, et href vers site de constructeur si dispo en ligne)
 
